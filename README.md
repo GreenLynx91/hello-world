@@ -2,9 +2,10 @@
 A poem to christen my public GitHub account:
 
 
-Ode to a Dung Beetle
-\nby Joseph Aloysius McDonough II
+##Ode to a Dung Beetle
+######by Joseph Aloysius McDonough II
 
+"""
 There's a little bug that lives out west
   with habits exceedingly crass.
 He'll spend hours finding a rabbit turd,
@@ -29,3 +30,4 @@ So, weigh not your doings too heavy
   as they require little wit.
 We are very much like these beetles,
   rolling our balls of stuff.
+"""
