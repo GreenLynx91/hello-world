@@ -3,7 +3,7 @@ A poem to christen my public GitHub account:
 
 
 Ode to a Dung Beetle
-by Joseph Aloysius McDonough II
+\nby Joseph Aloysius McDonough II
 
 There's a little bug that lives out west
   with habits exceedingly crass.
