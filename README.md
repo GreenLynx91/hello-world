@@ -1,5 +1,5 @@
 # hello-world
-A poem to christen my public GitHub account:
+A poem my grandfather wrote, as means of christening this GitHub account:
 
 
 ##Ode to a Dung Beetle
